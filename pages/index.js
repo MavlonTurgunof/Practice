@@ -1,10 +1,10 @@
-import ToDo from "@/Components/ToDo";
+import FocusInput from "@/Components/Focus";
 import React from "react";
 
 function index() {
   return (
     <div>
-      <ToDo />
+      <FocusInput />
     </div>
   );
 }
